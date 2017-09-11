@@ -4,9 +4,9 @@ This repository provides hosts a simple Android application which demonstrates h
 
 This application runs on Android 24 and above and has been tested on a Android Studio simulator. Below are the screenshots that show the basic functionality:
 
- ![alt text](https://raw.githubusercontent.com/all3fox/lyra2-mobile/screenshots/lyra2-mobile-main-clean.png)
+ ![alt text](https://raw.githubusercontent.com/all3fox/lyra2-mobile/master/screenshots/lyra2-mobile-main-clean.png)
 
-  ![alt text](https://raw.githubusercontent.com/all3fox/lyra2-mobile/screenshots/lyra2-mobile-result-clean.png)
+  ![alt text](https://raw.githubusercontent.com/all3fox/lyra2-mobile/master/screenshots/lyra2-mobile-result-clean.png)
 
 [1]: https://github.com/all3fox/lyra2-mobile
 [2]: https://github.com/all3fox/lyra2-java/
